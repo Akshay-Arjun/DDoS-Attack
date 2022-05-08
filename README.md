@@ -1,2 +1,2 @@
-# DDoS-Attack
-Distributed Denial of Service 
+# What is DDos?
+<h5>DDoS stands for Distributed Denial of Service. This type of attack involves sending large amounts of traffic from multiple sources to a service or website, intending to overwhelm it. A huge influx of traffic all at once can tie up all the site’s resources and thereby deny access to legitimate users. Websites sometimes “crash” due to an incoming flood of legitimate traffic, like when a highly anticipated product is released, and millions of people visit the site at once trying to buy it. DDoS attacks attempt to do the same.</h5>
